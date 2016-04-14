@@ -52,3 +52,47 @@
 [submodule "src/golang.org/x/net"]
 	path = src/golang.org/x/net
 	url = https://github.com/golang/net
+[submodule "src/github.com/miekg/dns"]
+	path = src/github.com/miekg/dns
+	url = https://github.com/miekg/dns
+	branch = master
+[submodule "src/github.com/pivotal-golang/localip"]
+	path = src/github.com/pivotal-golang/localip
+	url = https://github.com/pivotal-golang/localip
+	branch = master
+[submodule "src/github.com/gorilla/context"]
+	path = src/github.com/gorilla/context
+	url = https://github.com/gorilla/context
+	branch = master
+[submodule "src/github.com/gorilla/mux"]
+	path = src/github.com/gorilla/mux
+	url = https://github.com/gorilla/mux
+	branch = master
+[submodule "src/github.com/mitchellh/go-ps"]
+	path = src/github.com/mitchellh/go-ps
+	url = https://github.com/mitchellh/go-ps
+	branch = master
+[submodule "src/github.com/tedsuo/ifrit"]
+	path = src/github.com/tedsuo/ifrit
+	url = https://github.com/tedsuo/ifrit
+	branch = master
+[submodule "src/github.com/onsi/ginkgo"]
+	path = src/github.com/onsi/ginkgo
+	url = https://github.com/onsi/ginkgo
+	branch = master
+[submodule "src/github.com/onsi/gomega"]
+	path = src/github.com/onsi/gomega
+	url = https://github.com/onsi/gomega
+	branch = master
+[submodule "src/github.com/golang/protobuf"]
+	path = src/github.com/golang/protobuf
+	url = https://github.com/golang/protobuf
+	branch = master
+[submodule "src/github.com/hydrogen18/stoppableListener"]
+	path = src/github.com/hydrogen18/stoppableListener
+	url = https://github.com/hydrogen18/stoppableListener
+	branch = master
+[submodule "src/github.com/kardianos/osext"]
+	path = src/github.com/kardianos/osext
+	url = https://github.com/kardianos/osext
+	branch = master
